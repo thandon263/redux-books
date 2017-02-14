@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Redux Book App
 ---
 
 ###Getting Started###
